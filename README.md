@@ -5,14 +5,20 @@
 **Syfte:** Ge en praktisk, defensiv och pedagogisk introduktion till DevSecOps, säkerhetskontroller, dokumentation och ansvarsfull AI-användning.
 
 **Namn**
-Edvin Pihl
-**Klass**
-ITSX26
-**Datum**
-28/08/2026
-**Varför jag valt utbildningen**
-jag har valt denna utbildning då jag är väldigt intresserad av IT och säkerhet. Då kände jag att detta blev den bästa kombinationen av de båda.
 
+Edvin Pihl
+
+**Klass**
+
+ITSX26
+
+**Datum**
+
+28/08/2026
+
+**Varför jag valt utbildningen**
+
+jag har valt denna utbildning då jag är väldigt intresserad av IT och säkerhet. Då kände jag att detta blev den bästa kombinationen av de båda.
 
 ---
 
