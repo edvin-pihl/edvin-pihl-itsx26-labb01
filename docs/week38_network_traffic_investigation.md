@@ -386,7 +386,7 @@ Min egen fångst är begränsad till 100 paket och visar därför bara en begrä
 
 HTTP och HTTPS kunde inte analyseras från min egen fångst eftersom DNS-uppslaget för det valda målet misslyckades. Därför kompletterades analysen med lärarens pcap.
 
-En pcap visar endast den trafik som faktiskt fångades på det valda interfacet under fångstperioden.
+En pcap visar endast den trafik som faktiskt fångades på det valda interfacet under själva fångsten.
 
 Kryptering begränsar också vilken applikationsinformation som går att analysera.
 
