@@ -10,6 +10,6 @@ while True:
         break
 
     else:
-         print("Fel! Använd endast bokstäver (A-Ö). Försök igen.")
+        print("Fel! Använd endast bokstäver (A-Ö). Försök igen.")
 
 print(f"Hej {name}! Välkommen till kursen IT- och Cybersäkerhet.")
