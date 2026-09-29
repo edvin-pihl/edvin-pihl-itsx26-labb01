@@ -1,0 +1,42 @@
+SECURITY AUTOMATION REPORT
+==========================
+
+Analyserade filer:
+- data/auth.log
+- data/access.log
+- data/firewall.log
+- data/suspicious_ips.txt
+
+AUTHENTICATION
+Antal misslyckade inloggningar: 4
+- 198.51.100.44: 1
+- 203.0.113.15: 3
+
+WEB ACCESS
+Antal HTTP 401: 2
+- 203.0.113.15: 2
+
+FIREWALL
+Antal blockerade brandväggshändelser: 2
+- 203.0.113.15: 1
+- 203.0.113.99: 1
+
+OBSERVERADE KÄLL-IP-ADRESSER
+- 192.0.2.25
+- 198.51.100.44
+- 203.0.113.15
+- 203.0.113.99
+
+IOC-MATCHNINGAR
+- 198.51.100.44
+- 203.0.113.15
+- 203.0.113.99
+
+DATAKVALITET
+Antal hoppade felaktiga rader: 1
+
+OBSERVATION
+203.0.113.15 förekommer i misslyckade inloggningar, HTTP 401-händelser och blockerad brandväggstrafik. Adressen finns även i IOC-listan.
+
+BEGRÄNSNING
+En IOC-matchning eller flera säkerhetsrelaterade händelser bevisar inte att IP-adressen tillhör en angripare.
